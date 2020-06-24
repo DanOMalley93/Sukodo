@@ -1,2 +1,2 @@
 # Sukodo
-Sudoku Gae written in Python
+Sudoku Game written in Python
